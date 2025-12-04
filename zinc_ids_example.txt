@@ -1,0 +1,16 @@
+# ZINC ID Örnek Dosyası
+# Her satıra bir ZINC ID yazın
+# '#' ile başlayan satırlar yorum satırıdır ve okunmaz
+
+# FDA onaylı bazı örnek ilaçlar:
+ZINC000003830413
+ZINC000003831231
+ZINC000003831236
+ZINC000003831540
+ZINC000003832849
+
+# Daha fazla ZINC ID eklemek için:
+# 1. https://zinc15.docking.org adresine gidin
+# 2. İstediğiniz molekülleri arayın veya subset seçin
+# 3. ZINC ID'leri kopyalayıp buraya yapıştırın
+# 4. Notebook'ta ZINC_ID_FILE değişkenini bu dosyaya ayarlayın
