@@ -520,7 +520,7 @@ http://www.rdkit.org
 
 **Sorunuz mu var?**
 - Issues: GitHub repository
-- Email: ersin@istun.edu.tr
+- Email: ersin.gundeger@istun.edu.tr
 
 **Katkıda bulunmak ister misiniz?**
 - Pull requests memnuniyetle karşılanır!
